@@ -1,2 +1,2 @@
 1. Edit this file - DONE
-2. Merge DEV branch with QA branch - In progress
+2. Merge DEV branch with QA branch - DONE
